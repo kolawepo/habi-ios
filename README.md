@@ -4,9 +4,9 @@ A native iOS companion to [Habi](https://habi-sepia.vercel.app), a React/Firebas
 
 ## Demo
 
-<video src="https://github.com/kolawepo/habi-ios/raw/main/docs/habi-demo.mp4" controls width="300"></video>
+<video src="https://github.com/kolawepo/habi-ios/raw/main/docs/habi-ios-demo.mp4" controls width="300"></video>
 
-If the video above doesn't render, [watch/download it directly](docs/habi-demo.mp4).
+If the video above doesn't render, [watch/download it directly](docs/habi-ios-demo.mp4).
 
 ## Features
 
