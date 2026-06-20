@@ -1,7 +1,7 @@
 # Habi iOS
 
 A native iOS companion to [Habi](https://habi-sepia.vercel.app), a React/Firebase habit-streak app. This isn't a full port of the web app — it's a focused exploration of three native-only iOS features, backed by the same Firebase project as the web app, with just enough surrounding app to authenticate and sync data.
-
+https://github.com/kolawepo/habi-ios/raw/main/docs/habi-ios-demo.mp4
 ## Demo
 
 <video src="https://github.com/kolawepo/habi-ios/raw/main/docs/habi-ios-demo.mp4" controls width="300"></video>
